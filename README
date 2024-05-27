@@ -1,0 +1,31 @@
+
+# installation et creation de projet Django
+ouvrer un terminal comme MLS
+
+pip install django
+
+django-admin startproject todolist
+cd todolist
+
+python manage.py startapp tasks
+
+INSTALLED_APPS = [
+    ...
+    'tasks',
+]
+
+INSTALLED_APPS = [
+    ...
+    'tasks',
+]
+
+
+# source
+https://www.djangoproject.com/ 
+https://learn.microsoft.com/fr-fr
+chat gpt
+https://stackoverflow.com/
+
+# lien du canva
+https://www.canva.com/design/DAGDHgYyqbo/dkjBnrvB7GcgT_PobFHjMw/edit?utm_content=DAGDHgYyqbo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+ 
